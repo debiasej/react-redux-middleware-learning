@@ -4,6 +4,10 @@ Sample project that shows React-Redux middleware exercises
 
 This project has been developed to practice my skills with React, Redux and some middlewares.
 
+# Exercises
+
+- Create a list of users and write a middleware to help fetch data from ajax request.
+
 ###Getting Started###
 
 Checkout this repo, install dependencies, then start webpack server with the following:
