@@ -13,7 +13,7 @@ This project has been developed to practice my skills with React, Redux and some
 Checkout this repo, install dependencies, then start webpack server with the following:
 
 ```
-	> git clone git clone https://github.com/debiasej/react-redux-middleware-learninggit
+	> git clone https://github.com/debiasej/react-redux-middleware-learninggit
 	> cd react-redux-middleware-learning
 	> npm install
 	> npm start
